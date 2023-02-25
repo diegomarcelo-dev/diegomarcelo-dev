@@ -16,7 +16,7 @@
   <img align="center" alt="Diego-kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
 </div>
   
-  ##
+  #
 
 <div>
   <a href="https://www.linkedin.com/in/diegomarcelo-dev/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -34,9 +34,9 @@
 
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula" >
 
+ ##
 ![Snake animation](https://github.com/diegomarcelo-dev/diegomarcelo-dev/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **diegomarcelo-dev/diegomarcelo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
