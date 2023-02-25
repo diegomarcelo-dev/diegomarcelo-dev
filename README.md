@@ -2,7 +2,9 @@
 
 <div>
   <a href="https://github.com/diegomarcelo-dev">
-  <img height (https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomarcelo-dev&show_icons=dracula&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula">
+
 </div>
 
 <!--
