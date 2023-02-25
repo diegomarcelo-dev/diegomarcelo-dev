@@ -1,5 +1,5 @@
-### Olá! Me chamo <strong> Diego Marcelo</b>, sou professor e desenvolvedor independente.
-##
+<h2 align="left">Olá! Me chamo Diego Marcelo, sou professor e desenvolvedor independente. 👨‍🏫</h2>
+
 <div>
   <a href="https://github.com/diegomarcelo-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomarcelo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
@@ -24,10 +24,9 @@
   <a href="https://github.com/diegomarcelo-dev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
   
+<h3 align="left"> Aplicativos publicados: </h3>
 <div>
-  Aplicativos publicados:
-  <a href="https://play.google.com/store/apps/dev?id=9140799843831971378&hl=pt_BR&gl=US" target="_blank"> <img src="https://user-images.githubusercontent.com/70924661/221373133-5c958e1f-28b8-45eb-b97c-98503fb22f0c.png" target="_blank"></a>
-  
+  <a href="https://play.google.com/store/apps/dev?id=9140799843831971378&hl=pt_BR&gl=US" target="_blank"> <img height="80" width="215" src="https://user-images.githubusercontent.com/70924661/221373133-5c958e1f-28b8-45eb-b97c-98503fb22f0c.png" target="_blank"></a>
   
 </div>
             
