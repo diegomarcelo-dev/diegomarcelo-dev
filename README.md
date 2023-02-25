@@ -1,13 +1,13 @@
 <h2 align="left">Olá! Me chamo Diego Marcelo, sou professor e desenvolvedor independente. 👨‍🏫</h2>
 
-<div>
+<div align="center">
   <a href="https://github.com/diegomarcelo-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomarcelo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=diegomarcelo-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    
 
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Diego-kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Diego-kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Diego-kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
@@ -30,9 +30,9 @@
   
 </div>
 
-            
-        
+<h3 align="left"> Linguagens mais utilizadas: </h3>            
 
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula" >
 
 <!--
 **diegomarcelo-dev/diegomarcelo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
