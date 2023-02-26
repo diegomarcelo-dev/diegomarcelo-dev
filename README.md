@@ -32,7 +32,7 @@
 
 <h3 align="left"> Linguagens mais utilizadas: </h3>            
 
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula" >
+
 
  ##
 ![Snake animation](https://github.com/diegomarcelo-dev/diegomarcelo-dev/blob/output/github-contribution-grid-snake.svg)
