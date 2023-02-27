@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/diegomarcelo-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegomarcelo-dev&show_icons=true&theme=darcula&include_all_commits=true&count_private=true">
+
     
 
 </div>
