@@ -14,6 +14,7 @@
   <img align="center" alt="Diego-kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Diego-kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Diego-kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Diego-kt" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </div>
   
   #
@@ -30,16 +31,19 @@
   
 </div>
 
-<h3 align="left"> Linguagens mais utilizadas: </h3>            
-
-<img height="200em" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula">
-
  ##
 ![Snake animation](https://github.com/diegomarcelo-dev/diegomarcelo-dev/blob/output/github-contribution-grid-snake.svg)
+  
+
+![developer](https://user-images.githubusercontent.com/70924661/221643544-ca4862a6-45e9-4d2d-b358-749759b88dfe.gif)
 
 
 <!--
 **diegomarcelo-dev/diegomarcelo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h3 align="left"> Linguagens mais utilizadas: </h3>            
+
+<img height="200em" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula">
 
 Here are some ideas to get you started:
 
