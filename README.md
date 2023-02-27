@@ -2,9 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/diegomarcelo-dev">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=diegomarcelo-dev&show_icons=true&theme=darcula&include_all_commits=false&count_private=true">  
-
-    
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=diegomarcelo-dev&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"> 
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula">
 
 </div>
 
@@ -33,7 +32,7 @@
 
 <h3 align="left"> Linguagens mais utilizadas: </h3>            
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=darcula">
+<img height="200em" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula">
 
  ##
 ![Snake animation](https://github.com/diegomarcelo-dev/diegomarcelo-dev/blob/output/github-contribution-grid-snake.svg)
