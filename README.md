@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/diegomarcelo-dev">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=diegomarcelo-dev&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"> 
-    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=dracula">
+      <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=diegomarcelo-dev&show_icons=true&theme=darcula&include_all_commits=false&count_private=true"> 
+    <img height="200em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diegomarcelo-dev&layout=compact&langs_count=16&theme=darcula">
 
 </div>
 
